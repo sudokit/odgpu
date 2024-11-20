@@ -1,5 +1,5 @@
 # A odin ggpu compute library in odin
-Code a bit sloppy, and everything else. Burnout rn so
+Code a bit sloppy, and everything else. Burnout rn so. And i have no clue on how to make libraries so
 ## Dependencies:
 - wgpu [wgpu-odin](https://github.com/Capati/wgpu-odin)
 
