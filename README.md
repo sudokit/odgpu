@@ -8,3 +8,6 @@ Too lazy as of now, so docs are code
 
 ## Examples:
 There is an example in the examples folder
+
+## TODO:
+- [ ] Maybe make use of sdl3gpu?
